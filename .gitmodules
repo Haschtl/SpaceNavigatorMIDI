@@ -1,0 +1,3 @@
+[submodule "pyspacenavigator"]
+	path = pyspacenavigator
+	url = https://github.com/johnhw/pyspacenavigator
